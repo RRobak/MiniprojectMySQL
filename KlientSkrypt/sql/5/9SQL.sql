@@ -1,0 +1,5 @@
+PROMPT
+SET ECHO ON
+SELECT * FROM Leki_refundowane;
+SET ECHO OFF
+PROMPT

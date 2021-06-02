@@ -1,0 +1,9 @@
+DELETE FROM Adres;
+DELETE FROM Pracownik;
+DELETE FROM Pozycje_recept;
+DELETE FROM Recepta;
+DELETE FROM Klient;
+DELETE FROM Lek;
+DELETE FROM Dostawca;
+DELETE FROM Zamowienie;
+DELETE FROM Stosowanie;

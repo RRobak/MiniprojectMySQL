@@ -1,0 +1,7 @@
+ALTER TABLE Adres ADD (Wojewodztwo(VARCHAR2(28)));
+
+ALTER TABLE Lek MODIFY (Ilosc NUMBER(6) CONSTRAINT Lek_ilosc_nn NOT NULL);
+
+ALTER TABLE Lek DROP CONSTRAINT Lek_ilosc_nn;
+
+ALTER TABLE Adres DROP (Wojewodztwo(VARCHAR2(28)));

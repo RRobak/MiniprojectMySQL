@@ -1,0 +1,5 @@
+PROMPT
+SET ECHO ON
+Select * from dostawa;
+SET ECHO OFF
+PROMPT

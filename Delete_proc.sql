@@ -1,0 +1,13 @@
+DROP PROCEDURE dodaj_adres;
+DROP PROCEDURE dodaj_dostawce;
+DROP PROCEDURE dodaj_klient;
+DROP PROCEDURE dodaj_lek;
+DROP PROCEDURE dodaj_pozycje;
+DROP PROCEDURE dodaj_pracownik;
+DROP PROCEDURE dodaj_recepta;
+DROP PROCEDURE dodaj_stosowanie;
+Drop PROCEDURE dodaj_zamowienie;
+DROP PROCEDURE showContact;
+DROP PROCEDURE updateKlient;
+DROP PROCEDURE wyswietl_zmiany_lek;
+DROP FUNCTION obliczPremie;

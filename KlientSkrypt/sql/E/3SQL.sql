@@ -1,0 +1,4 @@
+PROMPT Wybierz ID:
+ACCEPT p_ID NUMBER DEFAULT 1 PROMPT Wybierz ID:
+HOST CLS
+EXECUTE obliczPremie(p_ID)
